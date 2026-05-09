@@ -1,4 +1,4 @@
-package cl.app.ms_products_db.model.entities;
+package cl.app.ms_products_db.model;
 
 import jakarta.persistence.*;
 import lombok.*;
